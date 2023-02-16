@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 지속적인 성장을 꿈꾸는 백엔드 엔지니어 전성현입니다. 👋
 
 <!--
 **tjdgus1/tjdgus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-반갑습니다!
+
